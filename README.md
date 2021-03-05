@@ -29,4 +29,4 @@ Start the client React's application.
 
 ### `yarn workspace client test`
 
-Run all of our unit test.
+Run all of our unit tests.

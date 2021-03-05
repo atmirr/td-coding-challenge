@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Viovar Walkway",
+    "username": "kitty.predovic56",
+    "rating": 1.9,
+    "favorites": 23,
+    "visits": 184,
+    "size": "small",
+    "location": "-50.2756 -50.2366"
+  },
+  {
+    "id": 2,
+    "name": "Indigo Shady",
+    "username": "hilda_turcotte",
+    "rating": 0.2,
+    "favorites": 1,
+    "visits": 10,
+    "size": "large",
+    "location": "68.0627 -127.7582"
+  },
+  {
+    "id": 3,
+    "name": "Red Scenic",
+    "username": "vern.mcclure82",
+    "rating": 2.4,
+    "favorites": 20,
+    "visits": 20,
+    "size": "big",
+    "location": "-52.4735 117.9920"
+  },
+  {
+    "id": 4,
+    "name": "Green Chaya",
+    "username": "chaya72",
+    "rating": 1.6,
+    "favorites": 5,
+    "visits": 65,
+    "size": "medium",
+    "location": "-24.3906 179.7276"
+  },
+  {
+    "id": 5,
+    "name": "Shady Bridgesston",
+    "username": "bridgette_hegmann",
+    "rating": 3.4,
+    "favorites": 38,
+    "visits": 190,
+    "size": "large",
+    "location": "52.9330 -144.7191"
+  },
+  {
+    "id": 6,
+    "name": "Blue Dejuan",
+    "username": "dejuan4",
+    "rating": 2.3,
+    "favorites": 23,
+    "visits": 115,
+    "size": "big",
+    "location": "37.3359 -165.0796"
+  },
+  {
+    "id": 7,
+    "name": "Sunny Wucker",
+    "username": "madisyn.wuckert51",
+    "rating": 4,
+    "favorites": 60,
+    "visits": 660,
+    "size": "medium",
+    "location": "-32.5292 -118.0856"
+  },
+  {
+    "id": 8,
+    "name": "Monique Trump",
+    "username": "monique.trump",
+    "rating": 3.4,
+    "favorites": 17,
+    "visits": 204,
+    "size": "small",
+    "location": "70.8173 -90.7366"
+  },
+  {
+    "id": 9,
+    "name": "Yellow Beaten",
+    "username": "dock_jast66",
+    "rating": 3,
+    "favorites": 9,
+    "visits": 90,
+    "size": "medium",
+    "location": "89.7059 80.5203"
+  }              
+]

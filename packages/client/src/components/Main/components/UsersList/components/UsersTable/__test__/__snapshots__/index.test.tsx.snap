@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UsersTable /> should renders the component 1`] = `
+<div
+  class="MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded"
+  data-testid="users-table"
+>
+  <table
+    aria-label="simple table"
+    class="MuiTable-root"
+  >
+    <thead
+      class="MuiTableHead-root"
+    >
+      <tr
+        class="MuiTableRow-root MuiTableRow-head"
+      >
+        <th
+          class="MuiTableCell-root MuiTableCell-head"
+          scope="col"
+        >
+          ID
+        </th>
+        <th
+          class="MuiTableCell-root MuiTableCell-head"
+          scope="col"
+        >
+          Name
+        </th>
+        <th
+          class="MuiTableCell-root MuiTableCell-head"
+          scope="col"
+        >
+          Username
+        </th>
+        <th
+          class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+          scope="col"
+        >
+          Actions
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      class="MuiTableBody-root"
+    >
+      <tr
+        class="MuiTableRow-root"
+      >
+        <td
+          class="MuiTableCell-root MuiTableCell-body"
+        >
+          1
+        </td>
+        <td
+          class="MuiTableCell-root MuiTableCell-body"
+        >
+          Sunny Wucker
+        </td>
+        <td
+          class="MuiTableCell-root MuiTableCell-body"
+        >
+          madisyn.wuckert51
+        </td>
+        <td
+          class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter"
+        >
+          <a
+            href="/user/1"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-detailIcon-1"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+              />
+            </svg>
+          </a>
+        </td>
+      </tr>
+      <tr
+        class="MuiTableRow-root"
+      >
+        <td
+          class="MuiTableCell-root MuiTableCell-body"
+        >
+          2
+        </td>
+        <td
+          class="MuiTableCell-root MuiTableCell-body"
+        >
+          Indigo Shady
+        </td>
+        <td
+          class="MuiTableCell-root MuiTableCell-body"
+        >
+          hilda_turcotte
+        </td>
+        <td
+          class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter"
+        >
+          <a
+            href="/user/2"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-detailIcon-1"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"
+              />
+            </svg>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

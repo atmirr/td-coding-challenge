@@ -1,0 +1,20 @@
+{
+  "name": "td-coding-challenge",
+  "author": {
+    "name": "Amir Attari",
+    "email": "amir.aetari@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Amir Attari",
+      "email": "amir.aetari@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
